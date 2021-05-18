@@ -11,6 +11,6 @@ The ipaddress in this section should match the address on the AJA Ki Pro Go - se
 ## Requirements
 
 ### Site Packages:
-Time
-Socket
-Requests
+- Time
+- Socket
+- Requests
