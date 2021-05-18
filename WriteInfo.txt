@@ -1,0 +1,7 @@
+CaptureName = DataCapture
+PacketID = 73
+IpAddress = 172.16.101.17
+Port = 30
+LastCapture = 200
+CapturePath = C:\Users\ajaTest\New Patient\New Session\
+CaptureTime = 15.0
